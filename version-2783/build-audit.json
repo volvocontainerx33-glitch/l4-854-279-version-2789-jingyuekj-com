@@ -1,0 +1,24 @@
+{
+  "parsed_movies": 2000,
+  "detail_pages": 2000,
+  "html_pages": 2018,
+  "html_pages_with_baidu_code": 2018,
+  "missing_baidu_pages": [],
+  "category_total": 2000,
+  "category_counts": {
+    "hot-drama": 167,
+    "action-adventure": 167,
+    "romance-comedy": 167,
+    "suspense-thriller": 167,
+    "sci-fi-future": 167,
+    "animation-fantasy": 167,
+    "history-war": 167,
+    "urban-life": 167,
+    "healing-family": 166,
+    "crime-law": 166,
+    "documentary-biography": 166,
+    "classic-picks": 166
+  },
+  "cards_in_all_and_category_pages": 8000,
+  "image_files_in_zip_source": 0
+}
